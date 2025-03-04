@@ -2,8 +2,9 @@
 
 ## I'm a begginer QA Engeneer
 
-Latest YouTube Videos
 
-Languages and Tools
+
+### Languages and Tools
+![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=357DE8)
 
 Follow me
