@@ -1,6 +1,6 @@
 [![Header](https://github.com/Mari-Nik/Mari-Nik/blob/main/assets/anime-typing.gif)](https://github.com/Mari-Nik)
 
-About me
+## I'm a begginer QA Engeneer
 
 Latest YouTube Videos
 
