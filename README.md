@@ -1,7 +1,7 @@
 [![Header](https://github.com/Mari-Nik/Mari-Nik/blob/main/assets/anime-typing.gif)](https://github.com/Mari-Nik)
 
 # Hi 👋, I'm Mariia</h1>
-## I'm a begginer QA Engeneer</h2>
+## I'm a beginner QA Engineer</h2>
 
 ### Languages and Tools
 
